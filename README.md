@@ -26,33 +26,44 @@ Social-Engineering Toolkit (SET) was launched in Kali Linux to perform the phish
 
 The simulated Google login page was used in the controlled phishing lab. The page demonstrated how users may be tricked into entering their login credentials.
 
-![create login page](Picture1.png)
+![create login page](/images/Picture1.png)
 
 ## Step 3: Capturing Login Activity
 
 The phishing simulation detected submitted login fields and recorded the HTTP request activity in the Kali Linux terminal. This demonstrated how a phishing page can capture user-entered credentials in a controlled lab environment.
 
-![credentials](image.png)
+![credentials](/images/image.png)
 
 ## Step 4: IP Address Conversion
 
 The IP address of the Kali Linux VM was entered into an IP-to-Decimal converter. The IPv4 address was successfully converted into its corresponding decimal representation as part of the lab exercise.
+![IP to Decimal](/images/ip.png)
 
 ## Step 5: Email Preparation
 
 An email containing recovery-email notification content was prepared for the phishing attack demonstration. The email content was edited as part of the controlled lab exercise.
+![email preparation](/images/email.png)
+![email preparation](/images/bcc.png)
 
 ## Step 6: Creating the Test URL
 
 The converted decimal IP address was combined with the URL format specified in the lab to create a test path. This path was prepared for use in the subsequent controlled phishing demonstration.
+![link](/images/link.png)
 
 ## Step 7: Sending the Phishing Simulation Email
 
 The prepared email containing the test link was sent to the designated recipient as part of the controlled phishing simulation. This demonstrated how deceptive links can be delivered through email.
+![sending email](/images/emailsend.png)
+![sending email](/images/emailsen2.png)
+![sending email](/images/emailsend3.png)
+
+
 
 ## Step 8: Captured Login Information
 
 The Social-Engineering Toolkit displayed the login information submitted through the simulated phishing page. This demonstrated how phishing attacks can capture user-entered credentials in a controlled lab environment.
+
+![capture](/images/login.png)
 
 ## Conclusion
 
